@@ -1,5 +1,5 @@
 # Create-NFT
-## NFT Collection on Ethereum Goerli and Polygon Mumbai
+## NFT Collection on Ethereum Goerli 
 This project aims to create and deploy a 5-item NFT collection using DALLE 2 or Midjourney, store the NFT metadata on IPFS using pinata.cloud, and deploy an ERC721 contract to the Goerli Ethereum Testnet. Additionally, the project includes mapping the NFT collection to the Polygon network using token mapper for better visualization and efficient transfers between Ethereum and Polygon.
 
 ## Requirements
